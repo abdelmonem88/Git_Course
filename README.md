@@ -1,1 +1,1 @@
-# Git_Course
+# Git&GitHub_Course
